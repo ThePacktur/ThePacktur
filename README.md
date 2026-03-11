@@ -60,5 +60,5 @@ Aquí dos de mis proyectos más representativos, donde he aplicado lógica compl
 
 Si buscas a un desarrollador junior con iniciativa, ganas de aprender y capacidad para llevar ideas a la realidad, ¡charlemos!
 
-*   **LinkedIn**: [Pon aquí el enlace a tu LinkedIn]
-*   **Correo**: [Pon aquí tu correo de contacto]
+*   **LinkedIn**: https://www.linkedin.com/in/paulo-fernandez-avalos-53490829b/
+*   **Correo**: paulofernandez.dev@outlook.com
