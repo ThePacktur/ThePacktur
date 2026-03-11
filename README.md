@@ -2,7 +2,14 @@
 
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-Desarrollador Front-end apasionado por **React y Vue**, con base en Copiapó, Chile. Me encanta construir experiencias web interactivas y crear proyectos personales que resuelvan problemas o simplemente... ¡saquen una sonrisa!
+Fullstack Developer
+
+Python • React • Vue
+Bots • Web Apps • Automation
+
+Building interactive projects and tools.
+
+Con base en Copiapó, Chile. Me encanta construir experiencias web interactivas y crear proyectos personales que resuelvan problemas o simplemente... ¡saquen una sonrisa!
 
 Mi objetivo es aportar mi creatividad y habilidades técnicas a un equipo donde pueda seguir aprendiendo y contribuir a proyectos que marquen la diferencia.
 
