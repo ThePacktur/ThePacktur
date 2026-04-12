@@ -54,15 +54,6 @@ Aquí dos de mis proyectos más representativos, donde he aplicado lógica compl
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThePacktur&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Paulo" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePacktur&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
-</p>
-
----
-
 ### 📫 ¿Hablamos?
 
 Si buscas a un desarrollador junior con iniciativa, ganas de aprender y capacidad para llevar ideas a la realidad, ¡charlemos!
