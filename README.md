@@ -45,7 +45,7 @@ Aquí dos de mis proyectos más representativos, donde he aplicado lógica compl
 *   **Impacto**: Útil para entender conceptos de salud pública y el efecto de diferentes variables en una pandemia.
 
 #### 🐱 [**DeskPets**](https://github.com/ThePacktur/DeskPets) - _Python, PyQt5_
-**¿Qué hace?** Una adorable mascota virtual (¡gato, cactus o pato!) que vive en tu escritorio y te acompaña mientras trabajas. Fue mi proyecto más reciente y divertido.
+**¿Qué hace?** Una adorable mascota virtual (¡fantasma, cactus o pato!) que vive en tu escritorio y te acompaña mientras trabajas. Fue mi proyecto más reciente y divertido.
 
 **¿Por qué es interesante?**
 *   **Interfaz gráfica de escritorio**: Desarrollado con **PyQt5**, demuestra mi capacidad para crear aplicaciones con interfaz gráfica más allá de la web.
